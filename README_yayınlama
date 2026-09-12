@@ -1,0 +1,13 @@
+NAMAZAPP GİZLİLİK POLİTİKASI YAYINLAMA REHBERİ
+
+1. privacy_policy.html dosyasını aç.
+2. [E-posta adresinizi buraya yazın] alanını Google Play geliştirici e-posta adresinle değiştir.
+3. Dosyayı GitHub Pages, Vercel, Netlify veya kendi sitene yükle.
+4. Google Play Console > Uygulama içeriği > Gizlilik Politikası alanına bu sayfanın herkese açık HTTPS URL adresini gir.
+5. Uygulama içinde de aynı gizlilik politikası linkini göster.
+
+Önemli:
+- Link herkese açık olmalı.
+- Giriş veya şifre istememeli.
+- Data Safety formundaki bilgilerle çelişmemeli.
+- Uygulamaya ileride reklam, Firebase Analytics, Crashlytics veya benzeri SDK eklersen bu metni güncelle.
