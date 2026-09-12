@@ -1,0 +1,133 @@
+GİZLİLİK POLİTİKASI
+
+Uygulama Adı: NamazApp
+Paket Adı: com.victoriumsoft.namazapp
+Son Güncelleme Tarihi: 30 Haziran 2026
+
+Bu Gizlilik Politikası, NamazApp mobil uygulamasının kullanıcı verilerini nasıl işlediğini açıklar. NamazApp; namaz vakitleri, kıble yönü, Kur’an-ı Kerim okuma, zikir sayacı, hutbe içerikleri ve günlük bildirim özellikleri sunan bir mobil uygulamadır.
+
+Geliştirici:
+VictoriumSoft / Muzaffer Ödemiş
+
+İletişim:
+[E-posta adresinizi buraya yazın]
+
+1. Toplanan ve İşlenen Veriler
+
+NamazApp kullanıcı hesabı oluşturmaz ve kullanıcıdan ad, soyad, e-posta, telefon numarası, kimlik bilgisi veya ödeme bilgisi istemez.
+
+Uygulama aşağıdaki verileri yalnızca uygulama özelliklerini çalıştırmak için işleyebilir:
+
+Konum Bilgisi:
+Uygulama, namaz vakitlerini ve kıble yönünü hesaplamak için kullanıcının yaklaşık veya hassas konum bilgisini kullanabilir. Konum izni kullanıcı tarafından verilir. Kullanıcı konum izni vermezse bazı özellikler manuel şehir seçimi veya sınırlı kullanım ile çalışabilir.
+
+Bildirim Tercihleri:
+Namaz vakti hatırlatmaları, günlük güzel söz bildirimi, seçilen bildirim süresi ve ses tercihleri cihazda yerel olarak saklanabilir.
+
+Ses Dosyası Seçimi:
+Kullanıcı uygulama içinde kendi cihazından bildirim veya ezan sesi seçebilir. Seçilen ses dosyasının kendisi uygulama tarafından sunucuya yüklenmez. Uygulama yalnızca seçilen dosyaya erişim iznini veya dosya referansını cihazda yerel olarak saklayabilir.
+
+Uygulama İçi Tercihler:
+Yazı boyutu, son okunan sure, zikir sayaçları, seçili ayarlar, bildirim tercihleri ve benzeri kullanım tercihleri cihazda yerel olarak saklanabilir.
+
+İnternet Kullanımı:
+Uygulama namaz vakitleri, Kur’an içeriği, meal verileri, harita bağlantıları veya benzeri çevrim içi içerikleri göstermek için internet bağlantısını kullanabilir. Bu işlemler sırasında üçüncü taraf servisler teknik olarak IP adresi, cihaz bilgisi veya gönderilen sorgu bilgilerini işleyebilir.
+
+2. Verilerin Kullanım Amaçları
+
+NamazApp verileri şu amaçlarla kullanır:
+
+- Namaz vakitlerini hesaplamak ve göstermek
+- Kıble yönünü hesaplamak
+- Namaz vakti hatırlatma bildirimleri göndermek
+- Kullanıcının seçtiği bildirim ve ezan sesini çalıştırmak
+- Kur’an-ı Kerim, meal, hutbe ve zikir içeriklerini göstermek
+- Uygulama ayarlarını cihazda hatırlamak
+- Uygulamanın temel işlevlerini güvenli ve kararlı şekilde sunmak
+
+3. Verilerin Paylaşımı
+
+NamazApp kullanıcı verilerini satmaz.
+
+Uygulama, reklam profili oluşturmak, pazarlama yapmak veya kullanıcıyı takip etmek amacıyla kişisel veri paylaşmaz.
+
+Ancak bazı özelliklerin çalışması için üçüncü taraf servislerle sınırlı teknik veri paylaşımı gerçekleşebilir. Örneğin namaz vakti veya Kur’an içeriği almak için kullanılan servisler, sorgunun gerçekleşmesi için gerekli teknik bilgileri işleyebilir.
+
+4. Üçüncü Taraf Servisler
+
+NamazApp, bazı özellikleri sağlamak için üçüncü taraf servislerden veri alabilir. Bu servisler şunlar olabilir:
+
+- Namaz vakti verisi sağlayan servisler
+- Kur’an ve meal içeriği sağlayan servisler
+- Harita veya yönlendirme servisleri
+- Android işletim sistemi bildirim ve alarm servisleri
+
+Bu servislerin kendi gizlilik politikaları geçerli olabilir. NamazApp, üçüncü taraf servislerin veri işleme süreçlerinden doğrudan sorumlu değildir.
+
+5. Reklam ve Analitik
+
+NamazApp varsayılan olarak kullanıcı davranışını takip eden reklam veya analitik sistemi kullanmaz.
+
+Uygulamaya ileride reklam, analitik, hata raporlama veya benzeri üçüncü taraf SDK’lar eklenirse bu Gizlilik Politikası güncellenecektir ve Google Play Data Safety bilgileri buna göre düzenlenecektir.
+
+6. Veri Saklama
+
+Uygulama içi tercihler ve ayarlar, kullanıcının cihazında yerel olarak saklanır.
+
+Bu veriler genellikle kullanıcı uygulamayı kaldırana, uygulama verilerini temizleyene veya uygulama içinden ilgili ayarı sıfırlayana kadar cihazda kalır.
+
+NamazApp, kullanıcı hesabı oluşturmadığı için merkezi bir kullanıcı hesabı veritabanı tutmaz.
+
+7. Veri Silme
+
+Kullanıcı aşağıdaki yöntemlerle yerel verilerini silebilir:
+
+- Android ayarlarından uygulama verilerini temizleyerek
+- Uygulamayı cihazdan kaldırarak
+- Uygulama içinde varsa ilgili sıfırlama seçeneklerini kullanarak
+
+Kullanıcı, gizlilik veya veri silme talepleri için geliştirici iletişim adresinden bizimle iletişime geçebilir.
+
+8. Çocukların Gizliliği
+
+NamazApp çocukları hedefleyen bir uygulama olarak tasarlanmamıştır. Uygulama bilerek çocuklardan kişisel veri toplamaz.
+
+Bir ebeveyn veya yasal temsilci, çocuğa ait bir verinin işlendiğini düşünüyorsa geliştirici iletişim adresi üzerinden bizimle iletişime geçebilir.
+
+9. Güvenlik
+
+NamazApp, kullanıcı verilerini minimum düzeyde işlemeyi amaçlar. Yerel ayarlar cihaz içinde saklanır. Çevrim içi veri alışverişlerinde mümkün olduğunda güvenli bağlantılar kullanılır.
+
+Bununla birlikte hiçbir dijital sistem yüzde yüz güvenli değildir. Kullanıcıların cihaz güvenliğini koruması, bilinmeyen kaynaklardan dosya seçmemesi ve cihaz izinlerini dikkatli yönetmesi önerilir.
+
+10. İzinler
+
+NamazApp aşağıdaki izinleri isteyebilir:
+
+Konum İzni:
+Namaz vakitleri ve kıble yönü için kullanılır.
+
+Bildirim İzni:
+Namaz vakti hatırlatmaları ve günlük söz bildirimleri için kullanılır.
+
+Tam Zamanlı Alarm İzni:
+Namaz vakti bildirimlerinin kullanıcının seçtiği zamanda daha doğru çalışması için kullanılabilir.
+
+Dosya veya Ses Seçme Erişimi:
+Kullanıcının cihazından bildirim veya ezan sesi seçebilmesi için kullanılır. Seçilen dosya sunucuya yüklenmez.
+
+İnternet İzni:
+Namaz vakitleri, Kur’an içeriği, meal veya çevrim içi servislerden veri almak için kullanılır.
+
+11. Politika Değişiklikleri
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Güncellemeler bu sayfada yayımlanır ve “Son Güncelleme Tarihi” değiştirilir.
+
+12. İletişim
+
+Gizlilik Politikası veya kişisel verilerle ilgili sorular için iletişim:
+
+Geliştirici: VictoriumSoft / Muzaffer Ödemiş
+E-posta: [E-posta adresinizi buraya yazın]
+Uygulama: NamazApp
+Paket Adı: com.victoriumsoft.namazapp
