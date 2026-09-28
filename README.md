@@ -10,7 +10,7 @@ Bu Gizlilik Politikası, NamazApp mobil uygulamasının kullanıcı verilerini n
 
 Geliştirici: VictoriumSoft / Muzaffer Ödemiş
 
-İletişim: [E-posta adresinizi buraya yazın]
+İletişim: muzafferodemis1907gfb@gmail.com
 
 1. Toplanan ve İşlenen Veriler
 NamazApp kullanıcı hesabı oluşturmaz ve kullanıcıdan ad, soyad, e-posta, telefon numarası, kimlik bilgisi veya ödeme bilgisi istemez.
